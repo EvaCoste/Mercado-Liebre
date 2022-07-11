@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Raleway:wght@700&family=Roboto&family=Work+Sans:ital,wght@0,200;1,400&display=swap');
+@import './general.css';
+
+.header{
+    background-color:#EAC926;
+    width: 100%;
+    
+    
+}
+.home_header_logo{
+    width: 200px;
+    height: 200px;
+    
+}
+
+.header_burguer_menu{
+    background-color: #1259c3;
+    border:none;
+    border-radius: 3px;
+    padding: 5px 10px;
+
+    
+    
+}
+
+/*mein{}*/
+.card{
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+.gift{
+    font-size: 2em;
+    margin-bottom: 10px;
+    
+}
+.seguridad{
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+
+    
+    

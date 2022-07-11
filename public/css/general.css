@@ -1,0 +1,43 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+}
+body{
+    font-family: 'Roboto';
+    background-color: #ebebeb;
+}
+li{ 
+    list-style: none;
+}
+ul{ 
+    
+    padding: 0;
+
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+h1{
+    font-size:24px;
+     color: #666;
+     
+}
+
+.precio{
+    font-size: 18px;
+
+}
+.descuento{
+    font-size: 16px;
+}
+article{
+   text-align: center;
+   font-size: 16px;
+   
+}
+img{
+    height: 100%;
+    width:100% ;
+}
+
